@@ -1,5 +1,6 @@
 # YoloV5_PCB
 This reposi tries to make a SIMPLE YoLoV5 which is used to detect the issue that appear on PCB surface.
+NOTE: The "SAM" session is a short test with SAM model not need to use in this. Please pass it.
 1) The original source: https://github.com/MBDNotes/YOLOv5_PCB_Defects_Detection/tree/main
 2) The github which is used to tran xml->txt: https://github.com/isabek/XmlToTxt
 3) Dataset used: https://www.kaggle.com/datasets/akhatova/pcb-defects
